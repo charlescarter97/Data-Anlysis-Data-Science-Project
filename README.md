@@ -1,2 +1,2 @@
 # Data-Anlysis-Data-Science-Project
-Anlysis of Sales Data with Visualization of Data.
+Anlysis of Year Long Sales Data with Visualization of Data using Juptyer Notebook and Matplotlib.
